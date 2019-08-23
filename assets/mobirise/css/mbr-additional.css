@@ -1932,44 +1932,6 @@ body {
   text-decoration: line-through;
   color: #767676;
 }
-.cid-rzWfebBbaH {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rzWfebBbaH .pricing {
-  padding: 3.3rem;
-  color: #767676;
-  background-color: #fff;
-}
-@media (max-width: 767px) {
-  .cid-rzWfebBbaH .pricing {
-    padding: 1.5rem;
-  }
-}
-.cid-rzWfebBbaH .plan-header,
-.cid-rzWfebBbaH .plan-body {
-  background-color: #fff;
-}
-.cid-rzWfebBbaH .plan-title {
-  margin-top: 1.4rem;
-}
-.cid-rzWfebBbaH .price-figure {
-  font-weight: 700;
-  color: #232323;
-}
-@media (max-width: 550px) {
-  .cid-rzWfebBbaH .price-figure {
-    font-size: 4.25rem;
-  }
-}
-.cid-rzWfebBbaH .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-.cid-rzWfebBbaH hr {
-  margin: 2rem 0;
-}
 .cid-rzWfjKytkz {
   padding-top: 90px;
   padding-bottom: 90px;
