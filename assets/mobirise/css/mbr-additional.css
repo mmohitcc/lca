@@ -1845,26 +1845,6 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-rzZfLHc4ZB {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rzZfLHc4ZB h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rzZfLHc4ZB p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rzZfLHc4ZB .card-box {
-  padding-top: 2rem;
-}
-.cid-rzZfLHc4ZB .card-wrapper {
-  height: 100%;
-}
 .cid-rzWxmPfh78 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1931,6 +1911,26 @@ body {
 .cid-rzWxmPfh78 .cost {
   text-decoration: line-through;
   color: #767676;
+}
+.cid-rzZfLHc4ZB {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rzZfLHc4ZB h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rzZfLHc4ZB p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rzZfLHc4ZB .card-box {
+  padding-top: 2rem;
+}
+.cid-rzZfLHc4ZB .card-wrapper {
+  height: 100%;
 }
 .cid-rzWfjKytkz {
   padding-top: 90px;
