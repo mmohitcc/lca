@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 60,
+    "uniqCompNum": 50,
     "versionPublish": "4.10.8",
     "favicon": "@PROJECT_PATH@/assets/images/80-803437-banner-black-and-white-stock-vector-background-for-128x109.png",
     "noImageResize": "",
