@@ -1,5 +1,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://littlecodeacademy.com/index.html</loc>
+		<loc>http://littlecodeacademy.com/weekend-camp.html</loc>
+	</url>
+	<url>
+		<loc>http://littlecodeacademy.com/adults-coding-classes.html</loc>
+	</url>
+	<url>
+		<loc>http://littlecodeacademy.com/kids-coding-center.html</loc>
+	</url>
+	<url>
+		<loc>http://littlecodeacademy.com/coding-bootcamp.html</loc>
+	</url>
+	<url>
+		<loc>http://littlecodeacademy.com/kids-projects.html</loc>
 	</url>
 </urlset>
