@@ -1,1 +1,1 @@
-<?php header( 'Location: /coding-bootcamp.html' ) ;  ?>
+<?php header( 'Location: /kids-coding-center.html' ) ;  ?>
